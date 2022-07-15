@@ -1,0 +1,11 @@
+Model Information:
+* title:	Teclado - Musical keyboard
+* source:	https://sketchfab.com/3d-models/teclado-musical-keyboard-9e662d12cafa4944857015f4c5da64bf
+* author:	Anderson Ferreira (https://sketchfab.com/AndersonFS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Teclado - Musical keyboard" (https://sketchfab.com/3d-models/teclado-musical-keyboard-9e662d12cafa4944857015f4c5da64bf) by Anderson Ferreira (https://sketchfab.com/AndersonFS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
